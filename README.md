@@ -3,8 +3,8 @@
 ### ⚡️ My name is Joe, and this is my Git page showcasing work I have done across coding languages... ⚡️
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://media.licdn.com/dms/image/D4E03AQH_WSwxAzF95Q/profile-displayphoto-shrink_800_800/0/1689167790265?e=1715817600&v=beta&t=2P-Bsr8y4uLKu8_BjF0v38NrmrHlHO88rGlUDhKbn-Y">
- <source media="(prefers-color-scheme: light)" srcset="https://media.licdn.com/dms/image/D4E03AQH_WSwxAzF95Q/profile-displayphoto-shrink_800_800/0/1689167790265?e=1715817600&v=beta&t=2P-Bsr8y4uLKu8_BjF0v38NrmrHlHO88rGlUDhKbn-Y">
+ <source media="(prefers-color-scheme: dark)" srcset="https://media.licdn.com/dms/image/D4E03AQH_WSwxAzF95Q/profile-displayphoto-shrink_800_800/0/1689167790265?e=1715817600&v=beta&t=2P-Bsr8y4uLKu8_BjF0v38NrmrHlHO88rGlUDhKbn-Y" width=20% height=20%>
+ <source media="(prefers-color-scheme: light)" srcset="https://media.licdn.com/dms/image/D4E03AQH_WSwxAzF95Q/profile-displayphoto-shrink_800_800/0/1689167790265?e=1715817600&v=beta&t=2P-Bsr8y4uLKu8_BjF0v38NrmrHlHO88rGlUDhKbn-Y" width=20% height=20%>
  <img alt="Head shot of Joe smiling." src="https://media.licdn.com/dms/image/D4E03AQH_WSwxAzF95Q/profile-displayphoto-shrink_800_800/0/1689167790265?e=1715817600&v=beta&t=2P-Bsr8y4uLKu8_BjF0v38NrmrHlHO88rGlUDhKbn-Y"
 </picture>
 
