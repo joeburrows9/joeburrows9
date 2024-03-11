@@ -1,6 +1,12 @@
 ## 👋 Hello! Welcome! 👋
 
-### ⚡️ My name is Joe and this is my Git page showcasing work I have done across coding languages ⚡️
+### ⚡️ My name is Joe, and this is my Git page showcasing work I have done across coding languages... ⚡️
+
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://media.licdn.com/dms/image/D4E03AQH_WSwxAzF95Q/profile-displayphoto-shrink_800_800/0/1689167790265?e=1715817600&v=beta&t=2P-Bsr8y4uLKu8_BjF0v38NrmrHlHO88rGlUDhKbn-Y">
+ <source media="(prefers-color-scheme: light)" srcset="https://media.licdn.com/dms/image/D4E03AQH_WSwxAzF95Q/profile-displayphoto-shrink_800_800/0/1689167790265?e=1715817600&v=beta&t=2P-Bsr8y4uLKu8_BjF0v38NrmrHlHO88rGlUDhKbn-Y">
+ <img alt="Head shot of Joe smiling." src="https://media.licdn.com/dms/image/D4E03AQH_WSwxAzF95Q/profile-displayphoto-shrink_800_800/0/1689167790265?e=1715817600&v=beta&t=2P-Bsr8y4uLKu8_BjF0v38NrmrHlHO88rGlUDhKbn-Y"
+</picture>
 
 - 😄 **Pronouns**: he/him
   
@@ -14,7 +20,6 @@
   
 - 📫 Reach me on LinkedIn [**here**](https://www.linkedin.com/in/joe-burrows-0a1a05182/)
 
-- 🙏 View my C.V. [**here**]()
 
 
 ### Explore my projects
@@ -28,9 +33,9 @@ Here are the repositories containing projects I have worked on using Python.
 [See all](https://github.com/joeburrows9/finalCapstone)
 
 
-I. Finance calculations 
-[Link]([https://github.com/joeburrows9/finalCapstone/blob/main/finance_calculations.py)
+i. Finance calculations 
+[Link](https://github.com/joeburrows9/finalCapstone/blob/main/finance_calculations.py)
 
 
-II. Task manager
+ii. Task manager
 [Link](https://github.com/joeburrows9/finalCapstone/blob/main/task_manager.py)
