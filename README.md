@@ -17,6 +17,7 @@
 - 📫 Reach me on LinkedIn [**here**](https://www.linkedin.com/in/joe-burrows-0a1a05182/)
 
 
+
 ### Music hardware
 
 **RainBox** 
@@ -31,6 +32,7 @@ Full instructions hosted here.
 Controls music notes by connecting alligator clip to any object. 
 
 Full instructions hosted here.
+
 
 
 
@@ -50,12 +52,10 @@ http://www.theaviator.world/
 
 
 
-### Python
+
+### Python projects with Software Engineering
 
 Here are the repositories containing projects I have worked on using Python. 
-
-**BYB Projects**
-[Link](https://github.com/joeburrows9/byb_project)
 
 **Capstone Projects**
 [See all](https://github.com/joeburrows9/finalCapstone)
@@ -67,3 +67,6 @@ i. Finance calculations
 
 ii. Task manager
 [Link](https://github.com/joeburrows9/finalCapstone/blob/main/task_manager.py)
+
+**BYB Projects**
+[Link](https://github.com/joeburrows9/byb_project)
